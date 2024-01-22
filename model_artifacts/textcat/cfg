@@ -1,0 +1,13 @@
+{
+  "labels":[
+    "anger",
+    "disgust",
+    "enthusiasm",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness"
+  ],
+  "threshold":0.0,
+  "positive_label":null
+}
